@@ -4,4 +4,6 @@ title: CV
 permalink: /CV/
 ---
 
-[click here to download](http://chauncey-li.github.io/_files/CV.pdf)
+[click here to download](/files/CV_chauncey.pdf)
+
+{% pdf "/files/CV_chauncey.pdf" no_link %}
