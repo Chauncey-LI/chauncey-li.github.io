@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: blog
 title: 集腋成裘
 permalink: /blog/
 ---
