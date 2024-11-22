@@ -18,9 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: chauncey li's plot
-email: chauncey_li@stu.pku.edu.cn
-description: a page powered by Jekyll # >- means to ignore newlines until "baseurl:"
+title: a plot of land of chauncey
+# email: chauncey_li@stu.pku.edu.cn
+description: >- # >- means to ignore newlines until "baseurl:"
+  a page powered by Jekyll 
+  and my enthusiasm
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

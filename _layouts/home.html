@@ -2,22 +2,6 @@
 layout: default
 ---
 
-<head>
-  <style>
-    div#hi {
-      float: left;
-      width: 50%;
-    }
-    div#profile {
-      float: right;
-      width: 50%;
-    }
-    div#content {
-      width: 100%;
-    }
-    </style>
-</head>
-
 <div class="home">
 
   {%- if page.title -%}
@@ -27,17 +11,17 @@ layout: default
   <table style="border: 2px solid grey;">
     <tr>
       <td style="width:50%;">
-        <h1>Hi 👋</h1>
+        <h1 style="font-size: 200%;">Hi 👋</h1>
         <p>My name is 李成蹊, Chauncey and رشيد, whichever you recognize!</p>
       </td>
       <td style="width:50%; text-align: right;">
         <img src="/files/profile.jpg" alt="profile">
-        <p>special thanks to <a href="https://hanyu.pku.edu.cn/xyjs/szdw/yjfxjs/kcyjsfzyjs1/376992.htm">Prof. Liu</a>, for taking this picture and the encouragements</p>
+        special thanks to <a href="https://hanyu.pku.edu.cn/xyjs/szdw/yjfxjs/kcyjsfzyjs1/376992.htm">Prof. Liu</a>, for taking this picture and the encouragements
       </td>
     </tr>
   </table>
 
-  <div id="content">
+  <div>
     {{ content }}
   </div>
 
