@@ -2,8 +2,7 @@
 layout: home
 ---
 
-I’m currently an M.A. student at Peking University.
-my M.A. project focuses on negation processing in yes/no questions of Chinese and English, two languages with different answering systems.
+I’m currently an M.A. student at the School of Chinese as a Second Language, Peking University. My M.A. project focuses on negation processing in yes/no questions of Chinese and English, two languages with different answering systems.
 
 I am also interested in exploring the following topics from a cognitive perspective:
 
