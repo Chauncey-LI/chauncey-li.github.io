@@ -21,8 +21,7 @@
 title: a plot of land of chauncey
 # email: chauncey_li@stu.pku.edu.cn
 description: >- # >- means to ignore newlines until "baseurl:"
-  a page powered by Jekyll 
-  and my enthusiasm
+  powered by Jekyll & Minima
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
